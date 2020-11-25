@@ -11,6 +11,6 @@ jobs:
     - uses: actions/checkout@v1
 #    - uses: warrenbuckley/Setup-Nuget@v1
     - run: nuget restore CSV-JSON-Converter.sln
-#    - uses: warrenbuckley/Setup-MSBuild@v1
+    - uses: warrenbuckley/Setup-MSBuild@v1
     - run: MSBuild.exe CSV-JSON-Converter.sln -p:Configuration=Release
       timeout-minutes: 5
