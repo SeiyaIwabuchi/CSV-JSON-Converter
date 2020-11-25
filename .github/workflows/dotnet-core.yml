@@ -9,8 +9,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
-    - uses: warrenbuckley/Setup-Nuget@v1
+#    - uses: warrenbuckley/Setup-Nuget@v1
     - run: nuget restore *.sln
-    - uses: warrenbuckley/Setup-MSBuild@v1
+#    - uses: warrenbuckley/Setup-MSBuild@v1
     - run: MSBuild.exe *.sln -p:Configuration=Release
       timeout-minutes: 5
