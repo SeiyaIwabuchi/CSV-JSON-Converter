@@ -1,0 +1,10 @@
+C:\Users\seiya\source\repos\CSV-JSON-Converter\bin\Debug\CSV-JSON-Converter.exe.config
+C:\Users\seiya\source\repos\CSV-JSON-Converter\bin\Debug\CSV-JSON-Converter.exe
+C:\Users\seiya\source\repos\CSV-JSON-Converter\bin\Debug\CSV-JSON-Converter.pdb
+C:\Users\seiya\source\repos\CSV-JSON-Converter\obj\Debug\CSV-JSON-Converter.csprojAssemblyReference.cache
+C:\Users\seiya\source\repos\CSV-JSON-Converter\obj\Debug\CSV_JSON_Converter.Form1.resources
+C:\Users\seiya\source\repos\CSV-JSON-Converter\obj\Debug\CSV_JSON_Converter.Properties.Resources.resources
+C:\Users\seiya\source\repos\CSV-JSON-Converter\obj\Debug\CSV-JSON-Converter.csproj.GenerateResource.cache
+C:\Users\seiya\source\repos\CSV-JSON-Converter\obj\Debug\CSV-JSON-Converter.csproj.CoreCompileInputs.cache
+C:\Users\seiya\source\repos\CSV-JSON-Converter\obj\Debug\CSV-JSON-Converter.exe
+C:\Users\seiya\source\repos\CSV-JSON-Converter\obj\Debug\CSV-JSON-Converter.pdb
